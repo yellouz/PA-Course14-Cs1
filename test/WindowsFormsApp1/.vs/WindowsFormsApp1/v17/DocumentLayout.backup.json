@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\C# projects\\test\\WindowsFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{975EBF1C-5495-46D8-ADA5-3C5A09C9064F}|WindowsFormsApp1.csproj|C:\\Users\\Hp\\Desktop\\C# projects\\test\\WindowsFormsApp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{975EBF1C-5495-46D8-ADA5-3C5A09C9064F}|WindowsFormsApp1.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{975EBF1C-5495-46D8-ADA5-3C5A09C9064F}|WindowsFormsApp1.csproj|c:\\users\\hp\\desktop\\c# projects\\test\\windowsformsapp1\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{975EBF1C-5495-46D8-ADA5-3C5A09C9064F}|WindowsFormsApp1.csproj|solutionrelative:form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975EBF1C-5495-46D8-ADA5-3C5A09C9064F}|WindowsFormsApp1.csproj|c:\\users\\hp\\desktop\\c# projects\\test\\windowsformsapp1\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975EBF1C-5495-46D8-ADA5-3C5A09C9064F}|WindowsFormsApp1.csproj|solutionrelative:form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{975EBF1C-5495-46D8-ADA5-3C5A09C9064F}|WindowsFormsApp1.csproj|C:\\Users\\Hp\\Desktop\\C# projects\\test\\WindowsFormsApp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{975EBF1C-5495-46D8-ADA5-3C5A09C9064F}|WindowsFormsApp1.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{975EBF1C-5495-46D8-ADA5-3C5A09C9064F}|WindowsFormsApp1.csproj|c:\\users\\hp\\desktop\\c# projects\\test\\windowsformsapp1\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{975EBF1C-5495-46D8-ADA5-3C5A09C9064F}|WindowsFormsApp1.csproj|solutionrelative:form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{975EBF1C-5495-46D8-ADA5-3C5A09C9064F}|WindowsFormsApp1.csproj|c:\\users\\hp\\desktop\\c# projects\\test\\windowsformsapp1\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{975EBF1C-5495-46D8-ADA5-3C5A09C9064F}|WindowsFormsApp1.csproj|solutionrelative:form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{975EBF1C-5495-46D8-ADA5-3C5A09C9064F}|WindowsFormsApp1.csproj|C:\\Users\\Hp\\Desktop\\C# projects\\test\\WindowsFormsApp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975EBF1C-5495-46D8-ADA5-3C5A09C9064F}|WindowsFormsApp1.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\C# projects\\test\\WindowsFormsApp1\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\C# projects\\test\\WindowsFormsApp1\\Form2.cs*",
-              "RelativeToolTip": "Form2.cs*",
-              "ViewState": "AgIAAEQAAAAAAAAAAAD4v1EAAAAdAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\C# projects\\test\\WindowsFormsApp1\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAD4v1cAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T12:59:47.237Z",
               "IsPinned": true,
@@ -44,12 +44,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\C# projects\\test\\WindowsFormsApp1\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\C# projects\\test\\WindowsFormsApp1\\Form2.cs [Design]*",
-              "RelativeToolTip": "Form2.cs [Design]*",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\C# projects\\test\\WindowsFormsApp1\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T15:12:12.996Z",
               "IsPinned": true,
@@ -57,27 +57,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form10.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\C# projects\\test\\WindowsFormsApp1\\Form10.cs",
-              "RelativeDocumentMoniker": "Form10.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\C# projects\\test\\WindowsFormsApp1\\Form10.cs",
-              "RelativeToolTip": "Form10.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAD4vxYAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Form11.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\C# projects\\test\\WindowsFormsApp1\\Form11.cs",
+              "RelativeDocumentMoniker": "Form11.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\C# projects\\test\\WindowsFormsApp1\\Form11.cs*",
+              "RelativeToolTip": "Form11.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA7wBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T17:42:43.873Z",
+              "WhenOpened": "2025-03-18T13:22:11.763Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form10.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\C# projects\\test\\WindowsFormsApp1\\Form10.cs",
-              "RelativeDocumentMoniker": "Form10.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\C# projects\\test\\WindowsFormsApp1\\Form10.cs [Design]",
-              "RelativeToolTip": "Form10.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "Form11.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\C# projects\\test\\WindowsFormsApp1\\Form11.cs",
+              "RelativeDocumentMoniker": "Form11.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\C# projects\\test\\WindowsFormsApp1\\Form11.cs [Design]*",
+              "RelativeToolTip": "Form11.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T17:41:25.736Z",
+              "WhenOpened": "2025-03-18T13:18:47.942Z",
               "EditorCaption": " [Design]"
             }
           ]

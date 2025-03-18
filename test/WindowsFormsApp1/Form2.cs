@@ -81,5 +81,11 @@ namespace WindowsFormsApp1
             Form MDI = new Form10();
             MDI.ShowDialog();
         }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            Form MenuStripe = new Form11();
+            MenuStripe.ShowDialog();
+        }
     }
 }

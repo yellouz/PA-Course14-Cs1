@@ -41,3 +41,4 @@ C:\Users\Hp\Desktop\C# projects\test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1
 C:\Users\Hp\Desktop\C# projects\test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
 C:\Users\Hp\Desktop\C# projects\test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form9.resources
 C:\Users\Hp\Desktop\C# projects\test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form10.resources
+C:\Users\Hp\Desktop\C# projects\test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form11.resources
